@@ -143,3 +143,4 @@ See also
 [19]: https://www.pleora.com
 [20]: https://www.baslerweb.com/
 [21]: https://www.photometrics.com/qimaging
+#Adding gst plugin
